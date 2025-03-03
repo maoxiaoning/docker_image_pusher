@@ -1,9 +1,2 @@
-jumpserver/mariadb:10.6
-jumpserver/koko:v3.9.3
-jumpserver/core-ce:v3.9.3
-jumpserver/redis:6.2
-jumpserver/lion:v3.9.3
-jumpserver/chen:v3.9.3
-jumpserver/magnus:v3.9.3
-jumpserver/web:v3.9.3
-jumpserver/kael:v3.9.3
+apache/hadoop:3.4.1
+apache/hive:4.0.1
